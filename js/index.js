@@ -521,6 +521,9 @@ function personas13() {
 function personas14() {
     window.open("pases/LosChavorrucos.html", "_self");        
 }
+function confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1Vc3iOaTtldhgRJhEL105CT6_LRzm4w5lOAPB8hIlwVs/edit?usp=drive_link", "_self");        
+}
 
  function copiar1(){
   var origen = document.getElementById('target1');

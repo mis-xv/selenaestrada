@@ -1572,3 +1572,25 @@ img.hover-shadow {
   text-align: center;
   z-index: 9;
 }
+
+
+
+.btnIdioma{
+  text-decoration: none;
+  color:#fff;
+  background-color: transparent; 
+  font-family: 'Arapey', serif; 
+  font-size: 15px;
+   
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:-10px;
+  border-radius: 50%;
+  letter-spacing: 5px;
+}
+
+.btnIdioma:hover{
+    transform: scale(1.1);
+    background-color: white;
+}
